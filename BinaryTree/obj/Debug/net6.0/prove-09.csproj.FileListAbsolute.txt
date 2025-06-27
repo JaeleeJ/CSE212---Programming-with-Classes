@@ -1,0 +1,15 @@
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\bin\Debug\net6.0\prove-09.exe
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\bin\Debug\net6.0\prove-09.deps.json
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\bin\Debug\net6.0\prove-09.runtimeconfig.json
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\bin\Debug\net6.0\prove-09.dll
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\bin\Debug\net6.0\prove-09.pdb
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.csproj.AssemblyReference.cache
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.AssemblyInfoInputs.cache
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.AssemblyInfo.cs
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.csproj.CoreCompileInputs.cache
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.dll
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\refint\prove-09.dll
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.pdb
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\prove-09.genruntimeconfig.cache
+C:\Users\jaele\Documents\GitHub\prove-09-JaeleeH\obj\Debug\net6.0\ref\prove-09.dll
