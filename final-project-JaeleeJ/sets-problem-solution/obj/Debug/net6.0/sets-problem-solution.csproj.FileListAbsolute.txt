@@ -1,0 +1,15 @@
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\bin\Debug\net6.0\sets-problem-solution.exe
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\bin\Debug\net6.0\sets-problem-solution.deps.json
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\bin\Debug\net6.0\sets-problem-solution.runtimeconfig.json
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\bin\Debug\net6.0\sets-problem-solution.dll
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\bin\Debug\net6.0\sets-problem-solution.pdb
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.csproj.AssemblyReference.cache
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.AssemblyInfoInputs.cache
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.AssemblyInfo.cs
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.csproj.CoreCompileInputs.cache
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.dll
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\refint\sets-problem-solution.dll
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.pdb
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\sets-problem-solution.genruntimeconfig.cache
+C:\Users\jaele\Documents\GitHub\final-project-JaeleeH\sets-problem-solution\obj\Debug\net6.0\ref\sets-problem-solution.dll
