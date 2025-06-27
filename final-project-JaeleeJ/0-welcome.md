@@ -12,6 +12,6 @@ Each module will contain descriptions and examples.  At the end of each module, 
 
 For questions or comments, please send them to:
 
-Jaelee Hutchinson, BYU-Idaho, CSE 212
+Jaelee, BYU-Idaho, CSE 212
 
-hut21003@byui.edu
+
